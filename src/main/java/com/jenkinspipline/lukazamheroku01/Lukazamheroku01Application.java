@@ -16,7 +16,7 @@ public class Lukazamheroku01Application {
     @GetMapping
     public String get()
     {
-        return "Hello Jenkins";
+        return "Hello Jenkins lukazam";
     }
 
 }
